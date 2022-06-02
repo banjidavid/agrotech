@@ -1,0 +1,26 @@
+.a{
+    background-color: green;
+    height: 600px;
+    width: 50%;
+    float: left;
+}
+.b{
+    background-color: grey;
+    height: 600px;
+    width: 50%;
+    float: right;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.footer{
+    background-color: black;
+}
+button{
+    font-size: 50px;
+}
+p{
+    color: white;
+}

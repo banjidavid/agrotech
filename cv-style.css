@@ -1,0 +1,38 @@
+body{
+    background-color:silver;
+}
+.container{
+    background-color: white;
+    width: 1200px;
+    height: 1200px;
+    margin-left: 250px;
+}
+.left{
+    width: 362px;
+    height: 1200px;
+    background-color: rgb(3, 3, 39);
+    float: left;
+}
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.right{
+    width: 650px;
+    height: 1200px;
+    float: right;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+h5{
+    color: white;
+}
+label{
+    color: white;
+}

@@ -1,0 +1,22 @@
+.first{
+    background-color: green;
+    width: 100%;
+    height: 350px;
+}
+.second{
+    background-color: grey;
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+.third{
+    background-color: rgb(102, 245, 150);
+    width: 50%;
+    height: 500px;
+    float: right;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
